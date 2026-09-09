@@ -1,4 +1,4 @@
-SYNAPSO FUSION BRIDGE 0.1.0 - WINDOWS / PYTHON 3.14
+SYNAPSO FUSION BRIDGE 0.1.1 - WINDOWS / PYTHON 3.14
 =====================================================
 
 Installation automatique
