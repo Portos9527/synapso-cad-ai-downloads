@@ -1,4 +1,4 @@
-SYNAPSO FUSION BRIDGE 0.1.1 - WINDOWS / PYTHON 3.14
+SYNAPSO FUSION BRIDGE 0.1.2 - WINDOWS / PYTHON 3.14
 =====================================================
 
 Installation automatique
@@ -29,3 +29,4 @@ le secret local. Le relais Synapso utilise automatiquement le meme fichier secre
 
 Pour le parcours serveur complet, le relais desktop doit aussi etre lance et le serveur doit
 etre passe en FUSION_MODE=fusion. Laissez le serveur en mode mock avant cette etape.
+

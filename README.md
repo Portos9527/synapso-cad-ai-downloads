@@ -11,7 +11,7 @@ contrôler l’intégrité du fichier.
 
 ## Complément Autodesk Fusion
 
-Télécharger `Synapso-Fusion-Addin-0.1.1-Windows-Python314.zip`, extraire entièrement le ZIP,
+Télécharger `Synapso-Fusion-Addin-0.1.2-Windows-Python314.zip`, extraire entièrement le ZIP,
 fermer Fusion puis lancer `INSTALLER_FUSION.cmd`. Le paquet contient les dépendances compilées
 pour le Python 3.14 de Fusion et démarre ensuite automatiquement avec Fusion.
 
